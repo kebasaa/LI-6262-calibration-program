@@ -26,4 +26,10 @@ In the command window, enter:
 
 ## License
 
-This program is distributed under the GPL version 3.
+### Software
+
+This software is distributed under the GPL version 3.
+
+### Logos and icons
+
+All logos and icons are trademark of [LI-COR Biosciences](https://www.licor.com/).
