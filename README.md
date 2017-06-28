@@ -9,6 +9,7 @@ Press **Fct 13** to set the channels (Check channel codes in the device manual):
 * 42
 
 Press **Fct 15** for header line: Set **0 to disable** (otherwise the program will crash)
+
 Press **Fct 14** for update interval: Set to **1s** (or any preferred interval)
 
 ## Requirements: Install modules
