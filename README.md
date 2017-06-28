@@ -1,6 +1,6 @@
 # LI-6262 calibration program
 
-This program is based on Python 3 on Windows and can be used to calibrate a LI-COR LI-6262 IRGA gas analyser. It shouldn't be difficult to port to other systems Note that the IRGA needs to be set up properly before usage:
+This program is based on Python 3 on Windows and can be used to calibrate a [LI-COR LI-6262 IRGA gas analyser](http://www.licor.com/env/newsline/tag/li-6262/). It shouldn't be difficult to port to other systems Note that the IRGA needs to be set up properly before usage:
 
 Press **Fct 13** to set the channels (Check channel codes in the [device manual](http://www.aoml.noaa.gov/ocd/ocdweb/brown/Licor_6262_Manual.pdf)):
 * 22 (mandatory)
@@ -8,7 +8,7 @@ Press **Fct 13** to set the channels (Check channel codes in the [device manual]
 * 38 (user choice)
 * 42 (user choice)
 
-Press **Fct 15** for header line: Set to **0 to disable** (otherwise the program will crash)
+Press **Fct 15** for header line: Set to **0** to disable (otherwise the program will crash)
 
 Press **Fct 14** for update interval: Set to **1s** (or any preferred interval)
 
