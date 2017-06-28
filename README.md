@@ -8,17 +8,18 @@ Press **Fct 13** to set the channels (Check channel codes in the device manual):
 * 38
 * 42
 
-Press **Fct 15** for header line: Set **0 to disable** (otherwise the program will crash)
+Press **Fct 15** for header line: Set to **0 to disable** (otherwise the program will crash)
 
 Press **Fct 14** for update interval: Set to **1s** (or any preferred interval)
 
 ## Requirements: Install modules
 
-pip3 install PyQt5 pyserial telepot
+    pip3 install PyQt5 pyserial telepot
 
 ## To convert .ui (Qt Designer file) to .py
 
-pyuic5 -o Interface.py Interface.ui
+    pyuic5 -o Interface.py Interface.ui
 
+## License
 
-
+This program is distributed under the GPL version 3.
