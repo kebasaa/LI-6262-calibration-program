@@ -14,9 +14,13 @@ Press **Fct 14** for update interval: Set to **1s** (or any preferred interval)
 
 ## Requirements: Install modules
 
+In the command window, enter:
+
     pip3 install PyQt5 pyserial telepot
 
 ## To convert .ui (Qt Designer file) to .py
+
+In the command window, enter:
 
     pyuic5 -o Interface.py Interface.ui
 
